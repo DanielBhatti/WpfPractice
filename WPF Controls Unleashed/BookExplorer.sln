@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookExplorer", "Explorer\BookExplorer.csproj", "{158636E7-66E6-4DB8-8D1B-B61B8BE74573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapters", "Chapters\Chapters.csproj", "{F59C8B32-7261-4E85-B430-E1B82B89AE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{B7476A83-887B-4293-A637-C1802C8E3A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

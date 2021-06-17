@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPractice", "WpfPractice\WpfPractice.csproj", "{B17B3393-9F0D-4799-BFE6-5362E4F19063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfPractice", "WpfPractice\WpfPractice.csproj", "{B17B3393-9F0D-4799-BFE6-5362E4F19063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapters", "WPF Controls Unleashed\Chapters\Chapters.csproj", "{F59C8B32-7261-4E85-B430-E1B82B89AE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookExplorer", "WPF Controls Unleashed\Explorer\BookExplorer.csproj", "{158636E7-66E6-4DB8-8D1B-B61B8BE74573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "WPF Controls Unleashed\Resources\Resources.csproj", "{B7476A83-887B-4293-A637-C1802C8E3A20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B17B3393-9F0D-4799-BFE6-5362E4F19063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B17B3393-9F0D-4799-BFE6-5362E4F19063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B17B3393-9F0D-4799-BFE6-5362E4F19063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59C8B32-7261-4E85-B430-E1B82B89AE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158636E7-66E6-4DB8-8D1B-B61B8BE74573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7476A83-887B-4293-A637-C1802C8E3A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
